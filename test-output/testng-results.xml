@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-29T12:56:11 IST" name="Default suite" finished-at="2024-06-29T12:56:48 IST" duration-ms="36618">
+    <groups>
+    </groups>
+    <test started-at="2024-06-29T12:56:11 IST" name="Default test" finished-at="2024-06-29T12:56:48 IST" duration-ms="36618">
+      <class name="demo_package.unit3_evaluation_2_orangehrm">
+        <test-method is-config="true" signature="befr_test()[pri:0, instance:demo_package.unit3_evaluation_2_orangehrm@729d991e]" started-at="2024-06-29T12:56:11 IST" name="befr_test" finished-at="2024-06-29T12:56:20 IST" duration-ms="8308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befr_test -->
+        <test-method signature="testcase1()[pri:0, instance:demo_package.unit3_evaluation_2_orangehrm@729d991e]" started-at="2024-06-29T12:56:20 IST" name="testcase1" finished-at="2024-06-29T12:56:48 IST" duration-ms="28231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- demo_package.unit3_evaluation_2_orangehrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
